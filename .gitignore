@@ -1,0 +1,30 @@
+# Python/ROS 2 Ignore File
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# Project dependencies
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Editor directories and files
+.vscode
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ROS 2 Workspaces
+build/
+install/
+log/
