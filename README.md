@@ -28,3 +28,4 @@ Launch
 ```bash
 ros2 launch mpc_nav launch_mpc.launch.py
 ```
+[VIDEO](https://drive.google.com/file/d/1nSRdwurPM72rQvlXO0zevIfBaZK28wCv/view?usp=sharing)
